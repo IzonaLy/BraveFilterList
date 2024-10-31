@@ -216,3 +216,32 @@ replit.com##.css-r2zbpg
 replit.com##.css-1hx2ger
 replit.com##.css-1ak3u0r
 replit.com##.css-1izdwm5
+duckduckgo.com##.UzkgCjTAZmfW3MeC4zl9
+duckduckgo.com##.taY2zeqsgvvYQR1rWhGn.wZ4JdaHxSAhGy1HoNVja.cPy9QU4brI7VQXFNPEvF
+duckduckgo.com##.v3JBuY9eVN9l_joC8QVO.bhlopecbHY_vz5MJIuKm > .G7rDHS2k8fykjYYMbnTg > .Q6rr_mdD2009pPq1TQiZ.wZ4JdaHxSAhGy1HoNVja.Sy7z35L7t3PeOHmOWVKK
+duckduckgo.com##.WxeXbAciZr1CC7Dfsql5
+duckduckgo.com##.dRgIy84N5945NtLY87wQ
+duckduckgo.com##.uNpNxLjmZNNGnlkDPAcl
+duckduckgo.com##li.HmVD0odzmaobZhTx3jzd.pJV8whywroIePEyXObEr:nth-of-type(1)
+duckduckgo.com##.Q2Fd8YfsUUfIFibUNedw
+
+duckduckgo.com##.HupiB1pFCBy86wfn4RhN.wZ4JdaHxSAhGy1HoNVja.cPy9QU4brI7VQXFNPEvF
+duckduckgo.com##.DBKMU26J5FqoTrRwkV8Q.wZ4JdaHxSAhGy1HoNVja.cPy9QU4brI7VQXFNPEvF
+duckduckgo.com##.j72e4m7zhGDBY7aLZXGL.wZ4JdaHxSAhGy1HoNVja.Sy7z35L7t3PeOHmOWVKK
+duckduckgo.com##div.WWQzt6Y8Hx0MjxcaZ4o8
+duckduckgo.com##.Ub4muyvYLL2It4azTXbT
+duckduckgo.com##.Hy9cteqEV0NecfUZui9A.wZ4JdaHxSAhGy1HoNVja.d26Geqs1C__RaCO7MUs2.HJbat_kWNvZlTI7RgTUo
+duckduckgo.com##.eRjZTOsvr6gqJe3E2Yc6
+duckduckgo.com##.nav-menu__list
+duckduckgo.com##.nav-menu--slideout.js-menu--slideout.is-open
+duckduckgo.com##.header__button--menu.js-side-menu-open
+duckduckgo.com##.minimal-homepage_belowTheFoldBackground__k7TDK
+duckduckgo.com###features
+duckduckgo.com##.homepage-cta-section_scrollCta__HuSCL.minimal-homepage_exploreFeatureScroller__TL5Vx.center_root__Uf1xM.center_intrinsic__mk_Ab.center_andText__ejUnC
+duckduckgo.com##.module.ia-module--definitions.has-content-height > .feedback-prompt
+
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.dropdown.dropdown--license
+
+duckduckgo.com##.KE_4ibtn0WI3iUo6lJw9.nOpYdHAdSD_d47TfU1p8.yjuFYcjOI844d3KiuLhz > .UWzy821Y58lvrLxQ7fnz
+duckduckgo.com##.footer
