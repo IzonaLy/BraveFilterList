@@ -170,3 +170,49 @@ account.microsoft.com##.ms-MessageBar-content.content-455
 account.microsoft.com##.ms-MessageBar.ms-MessageBar--warning.ms-MessageBar-singleline.ms-MessageBar-dismissalSingleLine.root-454
 account.microsoft.com##.c-uhff-base
 account.microsoft.com##.ms-Stack-inner.css-256 > div.ms-StackItem.css-243:nth-of-type(1) > .ms-Shimmer-container.root-349 > .ms-Shimmer-dataWrapper.dataWrapper-400 > .ms-Stack.css-353
+github.com##.HeaderMktg.header-logged-out.js-details-container.js-header.Details.position-relative.f4.py-3
+app.raindrop.io##.menu-wUeI > span.separator-MTsp:nth-of-type(1)
+replit.com##.css-1iwpvu
+replit.com##.css-1x6x1vb
+replit.com##button.css-1f7ul0t:nth-of-type(2)
+replit.com##.css-a6vk8n
+replit.com##.css-1tx19i9
+replit.com##.loaded.css-9u872h
+replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(5)
+replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(4)
+replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(2)
+replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(1)
+replit.com##.css-1s4rjzh
+replit.com##.css-1re94xf > div.css-36v8q4:nth-of-type(1) > ul:nth-of-type(1) > li.css-sq8c5v:nth-of-type(5)
+replit.com##.css-1re94xf > div.css-36v8q4:nth-of-type(1) > ul:nth-of-type(1) > li.css-sq8c5v:nth-of-type(3)
+replit.com##.css-1gue4s0
+replit.com##.css-ois5h3
+replit.com##.css-cmzn0d
+replit.com##div.css-m25upe:nth-of-type(2)
+replit.com##div.css-m25upe:nth-of-type(4)
+replit.com##div.css-m25upe:nth-of-type(1)
+replit.com##.css-gzxkl2
+replit.com###react-aria9435144277-\:r7m\: > .css-1r27lbq > .css-36v8q4 > .css-r2zbpg
+replit.com##.css-w5i8d5
+replit.com##.css-wgjekq > .css-r2zbpg
+replit.com###react-aria7393912129-\:r7\:-option-join-org > .css-vvlkq9
+replit.com##.css-13fb1pq
+replit.com##.css-12ykvij
+replit.com##.css-1s2kq3d > .css-1387mo9
+replit.com##.css-1uxvrky
+replit.com##.css-1cltom5
+replit.com##.invite-button.css-e3qnhl
+replit.com##.css-1oamzis
+replit.com##.css-1yonnkt > span
+replit.com###react-aria7393912129-\:r76\: > .css-1oy23eq > .css-16gf0kt > div.css-1ar6wpy:nth-of-type(2) > .css-1l4xue5 > .css-1s2kq3d > .css-11qfkor
+replit.com###sidebar-section-header-dock
+replit.com##.css-131z9kb
+replit.com##div.css-1tosrz5:nth-of-type(2) > div.css-36v8q4:nth-of-type(2) > .css-duc1m6
+replit.com###sidebar-section-content-dock
+replit.com##div.css-1tosrz5:nth-of-type(2) > div.css-36v8q4:nth-of-type(2)
+replit.com##.css-t76i7t
+replit.com###react-aria7393912129-\:r7e\: > .css-1r27lbq > .css-36v8q4 > .css-r2zbpg
+replit.com##.css-r2zbpg
+replit.com##.css-1hx2ger
+replit.com##.css-1ak3u0r
+replit.com##.css-1izdwm5
