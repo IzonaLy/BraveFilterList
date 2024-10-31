@@ -245,3 +245,13 @@ duckduckgo.com##.dropdown.dropdown--license
 
 duckduckgo.com##.KE_4ibtn0WI3iUo6lJw9.nOpYdHAdSD_d47TfU1p8.yjuFYcjOI844d3KiuLhz > .UWzy821Y58lvrLxQ7fnz
 duckduckgo.com##.footer
+duckduckgo.com###zci-images > .js-tileview.tileview--grid > .serp__bottom-right.js-vertical-bottom-right
+duckduckgo.com##.dropdown.dropdown--videoLicense
+duckduckgo.com###zci-videos > .js-tileview.tileview--grid > .serp__bottom-right.js-vertical-bottom-right
+duckduckgo.com##.vertical.vertical--news > .serp__bottom-right.js-vertical-bottom-right
+duckduckgo.com##.tagline_tagline__xryVo.minimal-homepage_tagline__JmCcp.button_button__qrSvw.button_ghost__4prhT.button_size-md__dS3Yr
+duckduckgo.com##.sideMenu_sideMenuContent__OE7n9
+duckduckgo.com##.sideMenu_sideMenu__ApNj_.sideMenu_positionRight____Wdu
+duckduckgo.com##.header_headerButton__cLYU3.header_menuButton__xpZxu
+duckduckgo.com##.feedback-prompt.feedback-prompt__thumbs
+duckduckgo.com##.ULU1dsdFGNDI1_wDEams
