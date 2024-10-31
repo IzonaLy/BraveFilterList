@@ -1,0 +1,172 @@
+
+pass.proton.me##.flex.gap-2.shrink-0.flex-1.items-center.px-3.py-2.pass-spotlight-content.weak
+replit.com##.css-pbave1
+ya.ru###AdvRsyaCrossPage-cross-page
+pass.proton.me##.pass-top-bar.flex.gap-2.shrink-0.flex-1.items-center.px-3.py-2
+pass.proton.me##div.relative.shrink-0.mx-3:nth-of-type(1) > .dropdown-item-button.w-full.px-4.py-2.rounded
+pass.proton.me##div.shrink-0:nth-of-type(5)
+pass.proton.me##div.shrink-0:nth-of-type(6) > .mx-3.pr-2.py-1.shrink-0.pl-4.flex.flex-nowrap.items-center.gap-2.collapsible-header--clickable
+pass.proton.me##div.relative.shrink-0.mx-3:nth-of-type(3) > .dropdown-item-button.w-full.px-4.py-2.rounded
+pass.proton.me##.flex.flex-nowrap.gap-1.items-center.text-sm.text-ellipsis
+mail.proton.me##.button.button-medium.button-outline-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient
+mail.proton.me##.text-sm.text-center.flex.flex-column.gap-2
+drive.proton.me##.button.button-medium.button-outline-norm.inline-block.text-center.my-2.w-full.flex.gap-2.items-center.justify-center
+drive.proton.me##.button.button-medium.button-outline-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient
+drive.proton.me##.text-sm.text-center.flex.flex-column.gap-2
+pass.proton.me##.w-full.logo-container.hidden.md\:flex.shrink-0.justify-space-between.items-center.flex-nowrap
+pass.proton.me##li.dropdown-item:nth-of-type(1) > .relative.shrink-0 > .dropdown-item-button.w-full.px-4.py-2
+account.proton.me##.button.button-medium.button-outline-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient
+account.proton.me##.flex.flex-nowrap.shrink-0.bg-promotion.relative.rounded
+account.proton.me##section#invoices > div.max-w-custom
+account.proton.me##section#invoices > .group-hover-opacity-container.relative.text-bold.mb-1
+account.proton.me##section#gift-code > div.max-w-custom:nth-of-type(1)
+account.proton.me##section#gift-code > .group-hover-opacity-container.relative.text-bold.mb-1
+account.proton.me##section#credits > div.max-w-custom:nth-of-type(1)
+account.proton.me##section#credits > .group-hover-opacity-container.relative.text-bold.mb-1
+account.proton.me##section#payment-methods > div.max-w-custom:nth-of-type(1)
+account.proton.me##section#payment-methods > .group-hover-opacity-container.relative.text-bold.mb-1
+account.proton.me##.grid-column-3.your-plan-section-container.gap-8.pt-4
+account.proton.me##section#your-plan > .group-hover-opacity-container.relative.text-bold.mb-1
+
+account.proton.me##.navigation.max-w-full.flex-auto.flex-nowrap.flex-column > ul.unstyled.my-0.navigation-list:nth-of-type(1) > ul.unstyled.my-0.navigation-list:nth-of-type(1) > li.navigation-item.w-full.px-3.mb-0\.5:nth-of-type(3)
+account.proton.me##section#sentinel
+account.proton.me##li.navigation-item.w-full.px-3.mb-0\.5:nth-of-type(9)
+account.proton.me##div.settings-layout:nth-of-type(6) > .settings-layout-left
+account.proton.me##div.settings-layout:nth-of-type(6) > .settings-layout-right.settings-layout-right--toggle-container
+account.proton.me##section#pmme
+account.proton.me##section#name-signature > div.max-w-custom > div.settings-layout
+account.proton.me##.p-4.flex.items-center.mt-8.rounded.border.bg-weak
+account.proton.me##ul:nth-of-type(2) > li:nth-of-type(8)
+account.proton.me##li:nth-of-type(11)
+mail.proton.me##div.drawerAppSection.w-full.flex.\*\:min-size-auto.flex-column.gap-2.shrink-0.justify-center.px-4.py-2.rounded-lg.shadow-norm:nth-of-type(2)
+github.com##.footer.container-lg.p-responsive.py-6.mt-6.f6
+github.com##.Box-body.p-3
+github.com###session-otp-input-description
+github.com##.footer.pt-8.pb-6.f6.color-fg-muted.p-responsive
+github.com##.color-fg-muted.f6.mt-4
+github.com##article.js-notice.d-flex.flex-column.width-full.py-3:nth-of-type(3)
+github.com##.feed-item-content.d-flex.flex-column.pt-2.pb-2.border.color-border-default.rounded-2.color-shadow-small.width-full.height-fit
+github.com##.footer.pt-8.pb-6.f6.color-fg-muted
+github.com##article.js-notice.d-flex.flex-column.width-full.py-3:nth-of-type(2)
+github.com##.mb-3.dashboard-changelog.color-bg-default.border.color-border-default.p-3.rounded-2
+github.com##.mb-5.color-bg-default.border.color-border-default.p-3.rounded-2
+github.com##article#feed-item-0:nth-of-type(2)
+github.com##feed-container > div.d-flex.flex-justify-between.flex-items-center > div.d-flex.flex-items-center
+github.com##.BorderGrid-row.js-notice > .BorderGrid-cell
+github.com##div.BorderGrid-row:nth-of-type(2) > .BorderGrid-cell
+github.com##div.BorderGrid-row:nth-of-type(3) > .BorderGrid-cell
+github.com###wiki-tab
+github.com###projects-tab
+github.com###insights-tab
+github.com###security-tab
+app.nordpass.com##.flex.w-full.items-center.justify-between.px-4.py-3
+nordaccount.com##.pb-6.md\:pb-12.pt-14.text-micro.leading-normal.font-medium.nfIA6n36GA9gdtodKqSM
+nordaccount.com##.mt-auto
+app.nordpass.com##.mt-auto
+app.nordpass.com##.react-multi-carousel-track.h-\[104px\].flex.items-center
+app.nordpass.com##a.group.flex.py-1\.5.pr-3.items-center.w-full.text-grey.transition-all.duration-250.ease-out.hover\:bg-grey-dark\/25.hover\:text-white:nth-of-type(4)
+app.nordpass.com##a:nth-of-type(5)
+app.nordpass.com##a.cursor-pointer.outline-none.flex.items-center.justify-between.py-1\.5.pr-3.text-grey.transition-colors.duration-250.ease-out.hover\:bg-grey-dark\/25.hover\:text-white:nth-of-type(6)
+app.nordpass.com##a.cursor-pointer.outline-none.flex.items-center.justify-between.py-1\.5.pr-3.text-grey.transition-colors.duration-250.ease-out.hover\:bg-grey-dark\/25.hover\:text-white:nth-of-type(3)
+app.nordpass.com##a.group.flex.py-1\.5.pr-3.items-center.w-full.text-grey.transition-all.duration-250.ease-out.hover\:bg-grey-dark\/25.hover\:text-white:nth-of-type(3)
+app.nordpass.com##.inset-0.absolute.select-none.notifications-bell-icon
+app.nordpass.com##.bg-red.text-white.absolute.flex.items-center.justify-center.px-1.top-\[-7px\].left-2\.5.h-4.min-w-\[16px\].text-\[11px\].rounded-\[30px\].notifications-bell-icon
+app.nordpass.com##a.cursor-pointer.outline-none.flex.items-center.justify-between.py-1\.5.pr-3.text-grey.transition-colors.duration-250.ease-out.hover\:bg-grey-dark\/25.hover\:text-white:nth-of-type(7)
+app.nordpass.com##.flex.flex-row.border-t.border-b.mb-3\.5.px-3.py-2.text-left.border-grey-dark\/25.hover\:bg-grey-dark\/25.text-grey.hover\:text-white
+app.nordpass.com##.bg-gradient--velvet.mb-4.flex.w-full.items-center.rounded-2.p-6
+app.nordpass.com##.absolute.z-\[9999\].ml-40.mt-8.max-h-\[334px\].w-\[400px\].overflow-y-auto.rounded-2.bg-white.px-2.pb-\[7px\].pt-4.border.border-white.text-grey-darkest.shadow-2.dark\:border-\[--dmd-2\].dark\:bg-\[--dmd-3\].dark\:text-white
+app.nordpass.com##div:nth-of-type(9) > .bg-white.dark\:bg-grey-darkest.rounded-2 > .first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].flex.items-center.border-b.p-6
+app.nordpass.com##div:nth-of-type(8) > .bg-white.dark\:bg-grey-darkest.rounded-2 > button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(3)
+app.nordpass.com##div:nth-of-type(8) > .bg-white.dark\:bg-grey-darkest.rounded-2 > button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(1)
+app.nordpass.com##div:nth-of-type(8) > .bg-white.dark\:bg-grey-darkest.rounded-2 > button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(2)
+app.nordpass.com##div:nth-of-type(9) > .mb-6.text-grey-darkest.dark\:text-white.font-bold.text-xl.tracking-\[-\.2px\]
+app.nordpass.com##div:nth-of-type(10) > .bg-white.dark\:bg-grey-darkest.rounded-2 > button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(1)
+app.nordpass.com##div:nth-of-type(10) > .bg-white.dark\:bg-grey-darkest.rounded-2 > button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(2)
+app.nordpass.com##div:nth-of-type(10) > .bg-white.dark\:bg-grey-darkest.rounded-2 > button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(3)
+app.nordpass.com##button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(5)
+app.nordpass.com##.mx-auto.flex.max-w-\[1000px\].flex-col.gap-12.px-12.pb-16.pt-12 > div:nth-of-type(3) > .bg-white.dark\:bg-grey-darkest.rounded-2 > button.first\:rounded-t-2.last\:rounded-b-2.last\:border-b-0.border-grey-lighter.dark\:border-\[--dmd-3\].border-b.flex.items-center.justify-between.p-6.text-grey-darkest.dark\:text-white.w-full.text-left.group\/section.hover\:bg-ref-color-grey-10\/50.dark\:hover\:bg-\[--dmd-3\].cursor-pointer:nth-of-type(2)
+app.nordpass.com##.np-ui-button.np-ui-button--contained.np-ui-button--primary.np-ui-button--medium.mt-3.w-full
+app.nordpass.com##.flex.flex-col.items-center.border-b.border-grey-lighter.p-6.pt-8.dark\:border-\[--dmd-3\] > .text-grey-dark > span
+vault.bitwarden.com##environment-selector > .tw-mb-1 > div
+vault.bitwarden.com##div.tw-text-sm:nth-of-type(1)
+vault.bitwarden.com##footer.tw-text-center
+vault.bitwarden.com##.tw-mb-3.tw-flex.tw-flex-col.tw-items-center.tw-justify-center
+vault.bitwarden.com##.tw-m-0.tw-text-sm > .\!tw-text-primary-600.before\:-tw-inset-x-\[0\.1em\].before\:-tw-inset-y-\[0\.125rem\].before\:tw-absolute.before\:tw-block.before\:tw-content-\[\'\'\].before\:tw-rounded-md.before\:tw-transition.disabled\:\!tw-text-primary-600\/60.disabled\:tw-cursor-not-allowed.disabled\:tw-no-underline.focus-visible\:before\:tw-ring-2.focus-visible\:before\:tw-ring-primary-700.focus-visible\:tw-decoration-1.focus-visible\:tw-outline-none.focus-visible\:tw-underline.focus-visible\:tw-z-10.hover\:\!tw-text-primary-600.hover\:tw-decoration-1.hover\:tw-underline.tw-bg-transparent.tw-border-0.tw-border-none.tw-font-semibold.tw-leading-none.tw-p-0.tw-relative.tw-rounded.tw-text-unset.tw-transition
+vault.bitwarden.com##.tw-w-full.\!tw-text-muted.disabled\:\!tw-text-muted\/60.disabled\:tw-bg-transparent.disabled\:tw-border-text-muted\/60.disabled\:tw-cursor-not-allowed.focus-visible\:tw-ring.focus-visible\:tw-ring-offset-2.focus-visible\:tw-ring-primary-700.focus-visible\:tw-z-10.focus\:tw-outline-none.hover\:\!tw-text-contrast.hover\:tw-bg-text-muted.hover\:tw-border-text-muted.hover\:tw-no-underline.tw-bg-transparent.tw-border.tw-border-solid.tw-border-text-muted.tw-font-semibold.tw-inline-block.tw-no-underline.tw-px-3.tw-py-1\.5.tw-rounded.tw-text-center.tw-transition
+vault.bitwarden.com##.tw-mt-2.\!tw-text-primary-600.before\:-tw-inset-x-\[0\.1em\].before\:-tw-inset-y-\[0\.125rem\].before\:tw-absolute.before\:tw-block.before\:tw-content-\[\'\'\].before\:tw-rounded-md.before\:tw-transition.disabled\:\!tw-text-primary-600\/60.disabled\:tw-cursor-not-allowed.disabled\:tw-no-underline.focus-visible\:before\:tw-ring-2.focus-visible\:before\:tw-ring-primary-700.focus-visible\:tw-decoration-1.focus-visible\:tw-outline-none.focus-visible\:tw-underline.focus-visible\:tw-z-10.hover\:\!tw-text-primary-600.hover\:tw-decoration-1.hover\:tw-underline.tw-bg-transparent.tw-border-0.tw-border-none.tw-font-semibold.tw-leading-none.tw-p-0.tw-relative.tw-rounded.tw-text-unset.tw-transition
+vault.bitwarden.com##.tw-rounded-sm.tw-bg-background-alt.tw-text-main
+vault.bitwarden.com##.tw-flex.tw-items-center.tw-gap-2.tw-p-2.tw-pl-4.tw-text-contrast.tw-border-transparent.tw-bg-clip-padding.tw-border-solid.tw-border-b.tw-border-0.tw-bg-success-600
+vault.bitwarden.com###allVaults-filters > li.filter-option:nth-of-type(2) > .filter-buttons
+vault.bitwarden.com##div.filter:nth-of-type(2) > app-filter-section > .filter-heading
+vault.bitwarden.com###allVaults-filters > li.filter-option:nth-of-type(1) > .filter-buttons
+vault.bitwarden.com##navigation-product-switcher > .tw-mt-auto
+
+pass.proton.me##.pt-2.text-sm.flex.flex-nowrap.items-center.gap-2.collapsible-header--clickable
+vault.bitwarden.com##bit-nav-item:nth-of-type(3) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4
+vault.bitwarden.com##bit-nav-item:nth-of-type(3) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline
+vault.bitwarden.com##bit-nav-item:nth-of-type(3) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex
+vault.bitwarden.com##bit-nav-item:nth-of-type(2) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4
+vault.bitwarden.com##bit-nav-item:nth-of-type(2) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline
+vault.bitwarden.com##bit-nav-item:nth-of-type(2) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex
+vault.bitwarden.com###allItems-filters > li.filter-option:nth-of-type(3) > .filter-buttons
+vault.bitwarden.com##li.filter-option:nth-of-type(4) > .filter-buttons
+vault.bitwarden.com##.card-header.d-flex > .ml-auto
+vault.bitwarden.com##bit-nav-item:nth-of-type(6) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4 > .tw-font-semibold
+vault.bitwarden.com##bit-nav-item:nth-of-type(6) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4
+vault.bitwarden.com##bit-nav-item:nth-of-type(6) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline
+vault.bitwarden.com##bit-nav-item:nth-of-type(6) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex
+vault.bitwarden.com##bit-nav-item:nth-of-type(4) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4 > .tw-font-semibold
+vault.bitwarden.com##bit-nav-item:nth-of-type(4) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4
+vault.bitwarden.com##bit-nav-item:nth-of-type(4) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline
+vault.bitwarden.com##bit-nav-item:nth-of-type(4) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt4 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4 > .tw-font-bold
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt4 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt4 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt4 > .tw-relative.tw-flex
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4 > .tw-font-semibold
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline > .tw-truncate.tw-py-2.tw-pr-4
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex > .fvw.tw-w-full.tw-truncate.tw-border-none.tw-bg-transparent.tw-p-0.tw-text-start.\!tw-text-alt2.hover\:tw-text-alt2.hover\:tw-no-underline.focus\:tw-outline-none.\[\&\>\:not\(\.bwi\)\]\:hover\:tw-underline
+vault.bitwarden.com##bit-nav-item:nth-of-type(5) > .tw-relative.tw-bg-background-alt3.hover\:tw-bg-primary-300\/60 > .tw-relative.tw-flex
+vault.bitwarden.com##.tw-flex.tw-shrink-0.tw-flex-col.tw-rounded.tw-border.tw-border-solid.tw-border-secondary-600.tw-bg-background.tw-bg-clip-padding.tw-py-2.tw-overflow-y-auto.ng-star-inserted
+vault.bitwarden.com##.\!tw-text-main.before\:-tw-inset-\[3px\].before\:tw-absolute.before\:tw-block.before\:tw-content-\[\'\'\].before\:tw-ring.before\:tw-ring-transparent.before\:tw-rounded-md.before\:tw-transition.disabled\:hover\:tw-bg-transparent.disabled\:hover\:tw-border-transparent.disabled\:tw-opacity-60.focus-visible\:before\:tw-ring-text-main.focus-visible\:tw-z-10.focus\:tw-outline-none.hover\:tw-bg-transparent-hover.hover\:tw-border-text-main.hover\:tw-no-underline.tw-bg-transparent.tw-border.tw-border-solid.tw-border-transparent.tw-font-semibold.tw-px-2\.5.tw-py-1\.5.tw-relative.tw-rounded.tw-transition
+vault.bitwarden.com##.cdk-overlay-backdrop.cdk-overlay-transparent-backdrop.cdk-overlay-backdrop-showing
+vault.bitwarden.com##.tw-rounded-full.tw-h-10.tw-w-10
+vault.bitwarden.com##.tw-px-5.tw-pb-5.tw-pt-7.tw-block.tw-bg-background-alt3.tw-outline-none.focus-visible\:tw-ring.focus-visible\:tw-ring-inset.focus-visible\:tw-ring-text-alt2
+vault.bitwarden.com##.bwi.bwi-fw.bwi-shield.tw-mx-1.tw-text-alt2
+app.notesnook.com##.css-1udx2j
+app.notesnook.com##.css-zyvozy
+app.notesnook.com##.css-9849vf
+app.notesnook.com##.css-ute51o > .ms-container > div:nth-of-type(2) > div:nth-of-type(1)
+app.notesnook.com##div.css-3krqbf:nth-of-type(5) > div.css-13ovlfw:nth-of-type(3) > .css-1mhmewo
+app.notesnook.com##div.css-3krqbf:nth-of-type(5) > div.css-13ovlfw:nth-of-type(2) > .css-1mhmewo
+app.notesnook.com##div.css-3krqbf:nth-of-type(5)
+app.notesnook.com##div.css-3krqbf:nth-of-type(2) > div.css-13ovlfw:nth-of-type(5) > .css-1mhmewo
+app.notesnook.com##div.css-3krqbf:nth-of-type(3) > div.css-13ovlfw:nth-of-type(2) > .css-1mhmewo
+app.notesnook.com##div.css-3krqbf:nth-of-type(1) > div.css-13ovlfw:nth-of-type(2) > .css-1mhmewo
+raindrop.io##.blob1U5Q.left1x3n.intro2RCL
+raindrop.io##.landing2Gps
+raindrop.io##.footerSy6B
+raindrop.io##.nav4SBj > li:nth-of-type(1) > [href*="/download"]
+raindrop.io##.nav4SBj > li:nth-of-type(2) > [href*="/pro/buy"]
+raindrop.io##.nav4SBj > li:nth-of-type(3) > [href*="/integrations"]
+raindrop.io##.nav4SBj > li:nth-of-type(4) > [href*="https://blog.raindrop.io/"]
+raindrop.io##li:nth-of-type(5) > [href*="https://help.raindrop.io/about"]
+app.raindrop.io##.footer-acIg
+app.raindrop.io##.button-dQdc.google-b_ie.vendor-bSzw
+app.raindrop.io##.button-dQdc.undefined.vendor-bSzw
+app.raindrop.io##a.button-dQdc:nth-of-type(3)
+app.raindrop.io##.svSidebar > .header-Tqac > a.button-dQdc
+app.raindrop.io##.upgrade-R9fx
+app.raindrop.io##.menu-wUeI > a.item-d83A.item-QQDo.undefined:nth-of-type(4)
+app.raindrop.io##.menu-wUeI > a.item-d83A.item-QQDo.undefined:nth-of-type(5)
+app.raindrop.io##.menu-wUeI > a.item-d83A.item-QQDo.undefined:nth-of-type(7)
+app.raindrop.io##.menu-wUeI > a.item-d83A.item-QQDo.undefined:nth-of-type(6)
+app.raindrop.io##.menu-wUeI > a.item-d83A.item-QQDo.undefined:nth-of-type(3)
+app.raindrop.io##.menu-wUeI > a.item-d83A.item-QQDo.undefined:nth-of-type(2)
+app.raindrop.io##.menu-wUeI > span.separator-MTsp:nth-of-type(3)
+app.raindrop.io##.menu-wUeI > span.separator-MTsp:nth-of-type(2)
+login.live.com###footer
+account.microsoft.com##.ms-MessageBar-content.content-455
+account.microsoft.com##.ms-MessageBar.ms-MessageBar--warning.ms-MessageBar-singleline.ms-MessageBar-dismissalSingleLine.root-454
+account.microsoft.com##.c-uhff-base
+account.microsoft.com##.ms-Stack-inner.css-256 > div.ms-StackItem.css-243:nth-of-type(1) > .ms-Shimmer-container.root-349 > .ms-Shimmer-dataWrapper.dataWrapper-400 > .ms-Stack.css-353
