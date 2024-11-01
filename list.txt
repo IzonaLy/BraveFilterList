@@ -284,3 +284,37 @@ replit.com##.css-1t9x76r
 
 
 
+
+! reddit 
+www.reddit.com###left-sidebar
+www.reddit.com###get-app
+www.reddit.com##.nd\:visible.connected > faceplate-tooltip
+www.reddit.com##.flex.flex-col.py-md.box-border
+www.reddit.com##div.px-md.text-neutral-content-weak
+www.reddit.com##.block.h-\[210px\].nd\:visible.nd\:overflow-hidden
+www.reddit.com##.px-md.xs\:px-0.pt-lg
+
+! Nov 1, 2024 https://www.reddit.com
+||accounts.google.com/gsi/iframe/select$subdocument
+www.reddit.com##.xs\:hidden.relative
+www.reddit.com###t3_1gh14rj > div:nth-of-type(8) > shreddit-async-loader > unpacking-overflow-menu
+! www.reddit.com##unpacking-overflow-menu
+www.reddit.com###expand-user-drawer-button
+www.reddit.com###navbar-menu-button
+www.reddit.com##.px-2xs.relative
+www.reddit.com##shreddit-post-overflow-menu
+
+www.reddit.com##button.border-md:nth-child(1)
+!www.reddit.com##button.button:nth-child(3)
+
+www.reddit.com##button.button:nth-child(2) > span:nth-child(1) > span:nth-child(1)
+www.reddit.com##button.button:nth-child(3) > span:nth-child(1) > span:nth-child(1)
+www.reddit.com##button.button:nth-child(4) > span:nth-child(1) > span:nth-child(1)
+
+! Nov 1, 2024 https://www.reddit.com
+||accounts.google.com/gsi/$subdocument
+www.reddit.com##.nsm7Bb-HzV7m-LgbsSe-MJoBVe
+www.reddit.com##.h-\[40px\]
+www.reddit.com##.mt-sm.mb-sm.xs\:w-fit.item-center.flex
+www.reddit.com##.theme-beta.fixed.z-\[3\].h-header-large.right-0.left-0.top-0.nd\:visible
+
