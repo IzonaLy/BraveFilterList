@@ -1,6 +1,5 @@
 
 pass.proton.me##.flex.gap-2.shrink-0.flex-1.items-center.px-3.py-2.pass-spotlight-content.weak
-replit.com##.css-pbave1
 ya.ru###AdvRsyaCrossPage-cross-page
 pass.proton.me##.pass-top-bar.flex.gap-2.shrink-0.flex-1.items-center.px-3.py-2
 pass.proton.me##div.relative.shrink-0.mx-3:nth-of-type(1) > .dropdown-item-button.w-full.px-4.py-2.rounded
@@ -172,50 +171,7 @@ account.microsoft.com##.c-uhff-base
 account.microsoft.com##.ms-Stack-inner.css-256 > div.ms-StackItem.css-243:nth-of-type(1) > .ms-Shimmer-container.root-349 > .ms-Shimmer-dataWrapper.dataWrapper-400 > .ms-Stack.css-353
 github.com##.HeaderMktg.header-logged-out.js-details-container.js-header.Details.position-relative.f4.py-3
 app.raindrop.io##.menu-wUeI > span.separator-MTsp:nth-of-type(1)
-replit.com##.css-1iwpvu
-replit.com##.css-1x6x1vb
-replit.com##button.css-1f7ul0t:nth-of-type(2)
-replit.com##.css-a6vk8n
-replit.com##.css-1tx19i9
-replit.com##.loaded.css-9u872h
-replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(5)
-replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(4)
-replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(2)
-replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(1)
-replit.com##.css-1s4rjzh
-replit.com##.css-1re94xf > div.css-36v8q4:nth-of-type(1) > ul:nth-of-type(1) > li.css-sq8c5v:nth-of-type(5)
-replit.com##.css-1re94xf > div.css-36v8q4:nth-of-type(1) > ul:nth-of-type(1) > li.css-sq8c5v:nth-of-type(3)
-replit.com##.css-1gue4s0
-replit.com##.css-ois5h3
-replit.com##.css-cmzn0d
-replit.com##div.css-m25upe:nth-of-type(2)
-replit.com##div.css-m25upe:nth-of-type(4)
-replit.com##div.css-m25upe:nth-of-type(1)
-replit.com##.css-gzxkl2
-replit.com###react-aria9435144277-\:r7m\: > .css-1r27lbq > .css-36v8q4 > .css-r2zbpg
-replit.com##.css-w5i8d5
-replit.com##.css-wgjekq > .css-r2zbpg
-replit.com###react-aria7393912129-\:r7\:-option-join-org > .css-vvlkq9
-replit.com##.css-13fb1pq
-replit.com##.css-12ykvij
-replit.com##.css-1s2kq3d > .css-1387mo9
-replit.com##.css-1uxvrky
-replit.com##.css-1cltom5
-replit.com##.invite-button.css-e3qnhl
-replit.com##.css-1oamzis
-replit.com##.css-1yonnkt > span
-replit.com###react-aria7393912129-\:r76\: > .css-1oy23eq > .css-16gf0kt > div.css-1ar6wpy:nth-of-type(2) > .css-1l4xue5 > .css-1s2kq3d > .css-11qfkor
-replit.com###sidebar-section-header-dock
-replit.com##.css-131z9kb
-replit.com##div.css-1tosrz5:nth-of-type(2) > div.css-36v8q4:nth-of-type(2) > .css-duc1m6
-replit.com###sidebar-section-content-dock
-replit.com##div.css-1tosrz5:nth-of-type(2) > div.css-36v8q4:nth-of-type(2)
-replit.com##.css-t76i7t
-replit.com###react-aria7393912129-\:r7e\: > .css-1r27lbq > .css-36v8q4 > .css-r2zbpg
-replit.com##.css-r2zbpg
-replit.com##.css-1hx2ger
-replit.com##.css-1ak3u0r
-replit.com##.css-1izdwm5
+
 duckduckgo.com##.UzkgCjTAZmfW3MeC4zl9
 duckduckgo.com##.taY2zeqsgvvYQR1rWhGn.wZ4JdaHxSAhGy1HoNVja.cPy9QU4brI7VQXFNPEvF
 duckduckgo.com##.v3JBuY9eVN9l_joC8QVO.bhlopecbHY_vz5MJIuKm > .G7rDHS2k8fykjYYMbnTg > .Q6rr_mdD2009pPq1TQiZ.wZ4JdaHxSAhGy1HoNVja.Sy7z35L7t3PeOHmOWVKK
@@ -255,3 +211,76 @@ duckduckgo.com##.sideMenu_sideMenu__ApNj_.sideMenu_positionRight____Wdu
 duckduckgo.com##.header_headerButton__cLYU3.header_menuButton__xpZxu
 duckduckgo.com##.feedback-prompt.feedback-prompt__thumbs
 duckduckgo.com##.ULU1dsdFGNDI1_wDEams
+
+
+
+
+!repl.it
+
+! Nov 1, 2024 https://replit.com
+replit.com##.button-secondary.text-black.bg-opacity-15.bg-opacity-75.bg-gray.\38 00\:px-6.\38 00\:py-3.\38 00\:text-sans-20.text-sans-14.button-8360f5a1ed75.transition-\[background-color\].ease-in-out.font-400.duration-500.rounded.px-4.py-2
+replit.com##.relative.text-dark-gray.border-opacity-20.border-dark-gray.border-b.bg-black.text-center.text-sans-12.px-4.p-2
+replit.com##.top-0.w-full.z-40.sticky.header.duration-\[400ms\].transition-color
+replit.com##.w-full.\31 200\:px-0.\31 000\:p-14.my-8.px-0
+replit.com##section.\36 00\:text-center.\38 00\:px-0.px-6.\38 00\:py-3.py-1.overflow-hidden.\31 200\:grid-cols-14.\38 00\:grid-cols-8.\38 00\:grid.site-container.section-standard-text:nth-of-type(4)
+replit.com##.w-full.\38 00\:px-0.\38 00\:my-8.px-5.my-4
+replit.com##.\38 00\:pt-32.\38 00\:px-0.px-6.pt-10.p-4
+replit.com##div.py-1:nth-of-type(3)
+replit.com##.gradient
+replit.com##div.py-1:nth-of-type(5)
+replit.com##div.py-1:nth-of-type(9)
+replit.com##.\31 200\:items-end.\31 200\:justify-center.flex-col.flex.\31 200\:col-start-10.\31 200\:col-span-3.col-span-1 > .\31 200\:max-w-full.\38 00\:py-9.\31 200\:w-full.\38 00\:w-\[90\%\].\36 00\:max-w-\[55ch\]
+replit.com##.aspect-\[1\].w-full.scale-\[1\.03\] > .h-full.w-full.absolute > svg > g
+replit.com##div.py-1:nth-of-type(7)
+replit.com##.css-1lo7ia9
+replit.com##.css-5oe88t
+replit.com##.css-158oysx > .css-11x0780 > .css-1wzl73x
+replit.com##.css-9whmhk
+replit.com##.css-14qeb5d
+replit.com##.css-1lvcxsq > .css-36v8q4
+replit.com##.css-ktp7z > .css-scxoy8
+replit.com##.css-qjv898
+replit.com##div.css-1vh1i0g:nth-of-type(3)
+! Everything Works Fine
+replit.com##.css-dsqifq
+||www.youtube.com/embed
+replit.com##.css-pbave1
+replit.com##.css-epfao8
+replit.com##.css-1x6x1vb
+! Causes Problem replit.com##.css-1iwpvu
+replit.com##.css-13fb1pq
+replit.com##.css-9u872h.loaded
+replit.com##.css-usqo02
+replit.com##.css-vfm4jx
+replit.com##.css-avhcyq
+replit.com##.css-izgfjy
+replit.com##.css-gzxkl2
+replit.com##.css-ois5h3
+replit.com##.css-r2zbpg
+replit.com##.css-tihmj6 > .css-7fcecc > .css-1gue4s0
+
+! Nov 1, 2024 https://replit.com
+replit.com##.css-1eixacw
+replit.com##.css-w6zxfa
+replit.com##.css-7fcecc
+replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(5) > .css-114nd92
+replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(4) > .css-114nd92
+replit.com##ul:nth-of-type(2) > li.css-sq8c5v:nth-of-type(1)
+replit.com##.css-dvu261 > div.css-1iwpvu > .css-1387mo9
+replit.com##.css-1bv41ly > .css-1lunf7c > .css-1ak3u0r
+replit.com###\:r48\:-tab-1
+replit.com###\:r48\:-tab-2
+replit.com##.css-1s2kq3d > .css-1387mo9
+replit.com##ul:nth-of-type(1) > li.css-sq8c5v:nth-of-type(3) > .css-114nd92
+replit.com##ul:nth-of-type(1) > li.css-sq8c5v:nth-of-type(5) > .css-114nd92
+replit.com##.css-ycorin > .css-1l92986
+replit.com##div.css-m25upe
+replit.com##.css-cmzn0d
+replit.com##.css-e3qnhl.invite-button
+replit.com##.css-1cltom5
+replit.com##.css-1oamzis
+replit.com##.css-1s2wq89
+replit.com##.css-1t9x76r
+
+
+
