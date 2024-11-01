@@ -318,3 +318,34 @@ www.reddit.com##.h-\[40px\]
 www.reddit.com##.mt-sm.mb-sm.xs\:w-fit.item-center.flex
 www.reddit.com##.theme-beta.fixed.z-\[3\].h-header-large.right-0.left-0.top-0.nd\:visible
 
+
+
+!wikipedia
+! Nov 1, 2024 https://www.wikipedia.org
+www.wikipedia.org##.link-box
+www.wikipedia.org##.footer
+
+! Nov 1, 2024 https://en.wikipedia.org
+en.wikipedia.org###footer > .noprint
+en.wikipedia.org###footer-info-copyright
+
+! Nov 1, 2024 https://en.m.wikipedia.org
+en.m.wikipedia.org##.minerva-footer.mw-footer
+
+! Nov 1, 2024 https://en.wikipedia.org
+en.wikipedia.org##.mw-footer-container
+en.wikipedia.org##.vector-user-links-wide.vector-user-links
+en.wikipedia.org###ca-talk
+en.wikipedia.org###ca-viewsource
+en.wikipedia.org###ca-history
+
+! Nov 1, 2024 https://en.m.wikipedia.org
+en.m.wikipedia.org##.sistersitebox.plainlinks.side-box-right.side-box
+en.m.wikipedia.org###page-actions-viewsource
+en.m.wikipedia.org###page-actions-watch
+en.m.wikipedia.org##li.minerva__tab:nth-of-type(2)
+en.m.wikipedia.org###page-actions-edit
+en.m.wikipedia.org##.dmbox-disambig.dmbox.plainlinks.metadata
+en.m.wikipedia.org###mp-topbanner
+en.m.wikipedia.org###mp-bottom
+en.m.wikipedia.org###content > .post-content
