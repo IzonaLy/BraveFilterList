@@ -92,7 +92,7 @@ m.youtube.com##ytm-video-description-music-section-renderer
 ! Add to your personal filters and remove ! to activate
 
 ! Hide recommendation sidebar
-!www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope
 
 ! source: https://www.reddit.com/r/uBlockOrigin/comments/1bfv50f/what_is_the_difference/
 ! Video Overlay - annotations
