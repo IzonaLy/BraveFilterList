@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 📺 YouTube Clear View
 ! Description: Clean up YouTube clutter
-! Homepage: https://github.com/yokoffing/filterlists
+! Homepage: https://github.com/IzonaLy/BraveFilterList
 ! Expires: 4 days (update frequency)
 ! Version: 16 March 2024
 ! Syntax: AdBlock
